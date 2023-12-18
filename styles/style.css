@@ -115,10 +115,6 @@ footer {
 }
 
 @media only screen and (max-width: 380px) {
-    .search {
-        display: flex;
-        flex-direction: column;
-    }
 
     .search input {
         position: relative;
